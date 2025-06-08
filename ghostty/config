@@ -1,0 +1,17 @@
+background-opacity = 0.9
+font-family = Chico Mono
+
+# Set the background color to white
+background = #101820
+
+# Optional: Use a light theme to ensure text contrast
+theme = tokyonight
+
+# Optional: Enable background blur (macOS only, for a frosted glass effect)
+background-blur-radius = 10
+
+# Optional: Use transparent macOS titlebar for a seamless look
+macos-titlebar-style = transparent
+
+window-width = 100
+window-height = 25

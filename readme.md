@@ -26,3 +26,29 @@
 > Neovim is the craft that lets you shape it.”  
 
 
+## Ghostty (/Ghostty)
+
+> **// TERMINAL CONFIG: GHOSTTY //**  
+>  
+> **ENVIRONMENT**: `ghostty-core: ÆLIĀŠ/v1`  
+> **FONT**: `Chico Mono` — monospace, precision-grade  
+> **THEME**: `tokyonight` — dark ops visibility, high contrast  
+> **BACKGROUND**: `#101820` (opacity: 0.9) — reinforced visual silence  
+> **EFFECTS**:  
+> • `blur-radius = 10` *(macOS only)*  
+> • `macos-titlebar-style = transparent`  
+>  
+> **DIMENSIONS**:  
+> • `window-width = 100`  
+> • `window-height = 25`  
+>  
+> > *INTERFACE IS NON-DISRUPTIVE.*  
+> > *DESIGNED FOR PERCEPTUAL IMMERSION.*  
+> > *DO NOT ALTER WITHOUT INTENT.*  
+>  
+> **CLASSIFICATION**: LOCAL USE // CLEARANCE: Æ-TIER
+
+> “The terminal is not retro.  
+> It’s eternal.  
+>  
+> A monochrome interface between thought and execution.”  
