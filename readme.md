@@ -1,6 +1,6 @@
 # These are my dotfiles 
 
-> *“They’re called dotfiles because they begin with a dot — a Unix convention to hide configuration files from plain sight.  
+> *“They’re called dotfiles because they begin with a dot, a Unix convention to hide configuration files from plain sight.  
 > What you hide reveals who you are.”*  
 
 
